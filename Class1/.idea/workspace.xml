@@ -14,7 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZdnzXVcjRf7mvHSuPRf5nVwBRo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +27,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SalaryCalculator">
+    <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.SalaryCalculator" />
+      <module name="Class1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise1.SumCalculator" />
       <module name="Class1" />
@@ -39,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SalaryCalculator" />
         <item itemvalue="Application.SumCalculator" />
       </list>
     </recent_temporary>
@@ -57,25 +78,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1306" height="161" key="GridCell.Tab.0.bottom" timestamp="1585185889680">
+    <state x="275" y="22" key="#Notifications" timestamp="1585394229070">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585185889680" />
-    <state width="1306" height="161" key="GridCell.Tab.0.center" timestamp="1585185889680">
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585394229070" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585394372183">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585185889680" />
-    <state width="1306" height="161" key="GridCell.Tab.0.left" timestamp="1585185889680">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585394372183" />
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom" timestamp="1585394899371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585185889680" />
-    <state width="1306" height="161" key="GridCell.Tab.0.right" timestamp="1585185889680">
+    <state width="1323" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585394899371" />
+    <state width="1323" height="203" key="GridCell.Tab.0.center" timestamp="1585394899370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585185889680" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585178112174">
+    <state width="1323" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585394899370" />
+    <state width="1323" height="203" key="GridCell.Tab.0.left" timestamp="1585394899370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585178112174" />
+    <state width="1323" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585394899370" />
+    <state width="1323" height="203" key="GridCell.Tab.0.right" timestamp="1585394899371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585394899371" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1585394382157">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585394382157" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585394059058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585394059058" />
   </component>
 </project>
