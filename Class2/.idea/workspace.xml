@@ -5,10 +5,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Class2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/exercise1/SalaryCalculatorCompanyX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise2/SalesReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ZlDVOf0hDJmkvsAWAIUe3F7XpB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SalesReport">
     <configuration name="SalaryCalculatorCompanyX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise1.SalaryCalculatorCompanyX" />
       <module name="Class2" />
@@ -50,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SalesReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.SalesReport" />
+      <module name="Class2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SalesReport" />
         <item itemvalue="Application.SalaryCalculatorCompanyX" />
       </list>
     </recent_temporary>
@@ -82,22 +99,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585405245739" />
-    <state width="1323" height="202" key="GridCell.Tab.0.bottom" timestamp="1585406124764">
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1585410346541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585406124764" />
-    <state width="1323" height="202" key="GridCell.Tab.0.center" timestamp="1585406124764">
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585410346541" />
+    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1585410346541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585406124764" />
-    <state width="1323" height="202" key="GridCell.Tab.0.left" timestamp="1585406124764">
+    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585410346541" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1585410346540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585406124764" />
-    <state width="1323" height="202" key="GridCell.Tab.0.right" timestamp="1585406124764">
+    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585410346540" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1585410346541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585406124764" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585410346541" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1585405256667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
