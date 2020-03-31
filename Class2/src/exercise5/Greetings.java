@@ -9,7 +9,7 @@ public class Greetings {
         String name = scanner.next();
         greetUser(name);
     }
-    
+
     public static void greetUser(String name){
         System.out.println("Hola " + name);
     }

@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b81fdc84-e76c-4265-acaf-fd7e8b818b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercise4/CarBrands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise5/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise10/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise10/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise6/AVGCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise7/LessAndGreaterCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise8/HomeAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise9/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise9/PersonProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise4/CarBrands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise4/CarBrands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise5/Greetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise5/Greetings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +41,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Greetings">
-    <configuration name="CarBrands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise4.CarBrands" />
+  <component name="RunManager" selected="Application.Company">
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise10.Company" />
       <module name="Class2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise4.*" />
+          <option name="PATTERN" value="exercise10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cashier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise3.Cashier" />
+    <configuration name="HomeAreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise8.HomeAreaCalculator" />
       <module name="Class2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise3.*" />
+          <option name="PATTERN" value="exercise8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise5.Greetings" />
+    <configuration name="LessAndGreaterCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise7.LessAndGreaterCalculator" />
       <module name="Class2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise5.*" />
+          <option name="PATTERN" value="exercise7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalaryCalculatorCompanyX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise1.SalaryCalculatorCompanyX" />
+    <configuration name="PersonProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise9.PersonProgram" />
       <module name="Class2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise1.*" />
+          <option name="PATTERN" value="exercise9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,26 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise2.SalesReport" />
+    <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task" />
       <module name="Class2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Greetings" />
-        <item itemvalue="Application.CarBrands" />
-        <item itemvalue="Application.Cashier" />
-        <item itemvalue="Application.SalesReport" />
-        <item itemvalue="Application.SalaryCalculatorCompanyX" />
+        <item itemvalue="Application.Company" />
+        <item itemvalue="Application.PersonProgram" />
+        <item itemvalue="Application.LessAndGreaterCalculator" />
+        <item itemvalue="Application.task" />
+        <item itemvalue="Application.HomeAreaCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -132,26 +136,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585405842767" />
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585622969178">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1585622969178" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585405245739">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585405245739" />
-    <state width="1323" height="236" key="GridCell.Tab.0.bottom" timestamp="1585575998833">
+    <state width="1323" height="159" key="GridCell.Tab.0.bottom" timestamp="1585623719138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585575998833" />
-    <state width="1323" height="236" key="GridCell.Tab.0.center" timestamp="1585575998833">
+    <state width="1323" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585623719138" />
+    <state width="1323" height="159" key="GridCell.Tab.0.center" timestamp="1585623719138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585575998833" />
-    <state width="1323" height="236" key="GridCell.Tab.0.left" timestamp="1585575998833">
+    <state width="1323" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585623719138" />
+    <state width="1323" height="159" key="GridCell.Tab.0.left" timestamp="1585623719138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585575998833" />
-    <state width="1323" height="236" key="GridCell.Tab.0.right" timestamp="1585575998833">
+    <state width="1323" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585623719138" />
+    <state width="1323" height="159" key="GridCell.Tab.0.right" timestamp="1585623719138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585575998833" />
+    <state width="1323" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585623719138" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1585531803363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,9 +168,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585571818122" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585531694308">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585621794456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585531694308" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585621794456" />
   </component>
 </project>
