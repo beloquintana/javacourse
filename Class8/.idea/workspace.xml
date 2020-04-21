@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0da02c54-ce78-45e2-bb18-d2ceb1bb7c87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aNBf9Rnds8NZ45gEJQaND9VxFc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/suite-full-regression-testng.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lisy\Desktop\Class7\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Lisy/Desktop/Class8/suite-full-regression-testng.xml">
+    <configuration name="AddElementsTests.testAddElement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Class8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="addAndRemoveElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="addAndRemoveElements" />
+      <option name="MAIN_CLASS_NAME" value="addAndRemoveElements.AddElementsTests" />
+      <option name="METHOD_NAME" value="testAddElement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Lisy/Desktop/Class8/suite-full-regression-testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Class8" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suite-full-regression-testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckboxesTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Class8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkboxes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkboxes" />
+      <option name="MAIN_CLASS_NAME" value="checkboxes.CheckboxesTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElementTests.testRemoveElement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Class8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="addAndRemoveElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="addAndRemoveElements" />
+      <option name="MAIN_CLASS_NAME" value="addAndRemoveElements.RemoveElementTests" />
+      <option name="METHOD_NAME" value="testRemoveElement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suite-full-regression-testng.xml" type="TestNG" temporary="true">
+      <module name="Class8" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suite-full-regression-testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suite-loginAndElements-testng.xml" type="TestNG" temporary="true">
+      <module name="Class8" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suite-loginAndElements-testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Lisy/Desktop/Class8/suite-full-regression-testng.xml" />
+      <item itemvalue="TestNG.AddElementsTests.testAddElement" />
+      <item itemvalue="TestNG.RemoveElementTests.testRemoveElement" />
+      <item itemvalue="TestNG.suite-loginAndElements-testng.xml" />
+      <item itemvalue="TestNG.CheckboxesTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Lisy/Desktop/Class8/suite-full-regression-testng.xml" />
+        <item itemvalue="TestNG.CheckboxesTests" />
+        <item itemvalue="TestNG.suite-loginAndElements-testng.xml" />
+        <item itemvalue="TestNG.AddElementsTests.testAddElement" />
+        <item itemvalue="TestNG.RemoveElementTests.testRemoveElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da02c54-ce78-45e2-bb18-d2ceb1bb7c87" name="Default Changelist" comment="" />
+      <created>1586566271991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586566271991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587085364780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587085364780" />
+    <state x="305" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586570452591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1586570452591" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587085347472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587085347472" />
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom" timestamp="1587086922233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587086922233" />
+    <state width="1323" height="200" key="GridCell.Tab.0.center" timestamp="1587086922233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587086922233" />
+    <state width="1323" height="200" key="GridCell.Tab.0.left" timestamp="1587086922233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587086922233" />
+    <state width="1323" height="200" key="GridCell.Tab.0.right" timestamp="1587086922233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587086922233" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587085162308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587085162308" />
+  </component>
+</project>
